@@ -4,13 +4,21 @@ The essential skills used for client deliverables.
 
 ---
 
-| Skill | Description |
-|-------|-------------|
-| `landing-page` | Build complete, deployment-ready landing pages from client websites and content documents |
-| `frontend-design` | Create distinctive, production-grade frontend interfaces and websites |
-| `bip` | Generate professional Business Information Pack (BIP) documents as 16:9 landscape PDF slide decks |
-| `case-study` | Generate professional Case Study PDF documents as portrait A4 slide decks |
-| `newsletter-designer` | Design and export professional HTML newsletters as PDF with AI-generated hero images |
+## Core Skills (1–5) + Support Skills (6–10)
+
+| # | Core Skill | Skill ID | Support Skill 1 | Support Skill 2 | Support Skill 3 | Support Skill 4 |
+|---|-----------|----------|-----------------|-----------------|-----------------|-----------------|
+| 1 | **Landing Page** | `landing-page` | `brand-guide-extractor` | `copywriting` | `soft-visual-design` | `taste-frontend` |
+| 2 | **Website** | `frontend-design` | `redesign` | `ux-motion` | `scroll-stop-builder` | `soft-visual-design` |
+| 3 | **BIP** | `bip` | `brand-guide-extractor` | `copywriting` | `nanobanana` | `polish` |
+| 4 | **Case Study** | `case-study` | `brand-guide-extractor` | `copywriting` | `nanobanana` | `polish` |
+| 5 | **Newsletter** | `newsletter-designer` | `copywriting` | `nanobanana` | `logo-creator` | `polish` |
+| 6 | **Brand Guide** | `brand-guide-extractor` | `copywriting` | `soft-visual-design` | — | — |
+| 7 | **Copywriting** | `copywriting` | `content-strategy` | `seo-geo` | — | — |
+| 8 | **Design System** | `soft-visual-design` | `taste-frontend` | `typeset` | `colorize` | — |
+| 9 | **Image Generation** | `nanobanana` | `logo-creator` | `banner-creator` | `baoyu-cover-image` | — |
+| 10 | **Motion & Animation** | `ux-motion` | `animate` | `scroll-stop-builder` | `delight` | — |
 
 ---
 
+📄 [Download as CSV](skills-map.csv) — import into Google Sheets
