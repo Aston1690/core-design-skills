@@ -21,4 +21,16 @@ The essential skills used for client deliverables.
 
 ---
 
+## Install a Skill
+
+Copy-paste the one-liner for any skill into your terminal to install it instantly.
+
+### Case Study
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/Aston1690/core-design-skills/main/case-study/install.sh)
+```
+
+---
+
 📄 [Download as CSV](skills-map.csv) — import into Google Sheets
